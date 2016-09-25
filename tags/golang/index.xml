@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on Universal</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/golang/</link>
+    <link>https://mateusamin.github.io/avesta-website/tags/golang/</link>
     <description>Recent content in Golang on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mateusamin.github.io/avesta-website/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Linked post</title>
-      <link>http://replace-this-with-your-hugo-site.com/projects/linked-post/</link>
+      <link>https://mateusamin.github.io/avesta-website/projects/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/projects/linked-post/</guid>
+      <guid>https://mateusamin.github.io/avesta-website/projects/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
