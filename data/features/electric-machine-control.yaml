@@ -1,0 +1,4 @@
+weight: 5
+name: "Electric Machine Control"
+icon: "fa fa-circle-o-notch"
+description: "Control design and implementation of electic motors and generators."

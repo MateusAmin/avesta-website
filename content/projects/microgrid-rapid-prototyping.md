@@ -1,8 +1,8 @@
 +++
-title = "Linked post"
+title = "Rapid Prototyping for the Microgrid"
 date = "2015-10-02T21:49:20+02:00"
-tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming"]
+tags = ["programming", "microgrid"]
+categories = ["microgrid"]
 banner = "img/banners/banner-4.jpg"
 author = "John Doe"
 +++

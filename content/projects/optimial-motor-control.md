@@ -1,8 +1,8 @@
 +++
-title = "Migrate from Jekyll"
+title = "Optimal Motor Control"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
+tags = ["control", "power systems"]
+categories = ["control"]
 banner = "img/banners/banner-5.jpg"
 +++
 
