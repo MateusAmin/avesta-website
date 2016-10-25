@@ -14,4 +14,6 @@ Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richa
 
 # Advisory Board
 
-## Kennith Laparo
+## Kenneth Laparo
+
+asdasdas
